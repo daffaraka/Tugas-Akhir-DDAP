@@ -1,0 +1,58 @@
+* {
+    font-family: 'Montserrat';
+    margin: unset;
+    scroll-behavior: smooth;
+}
+
+#box-1 {
+    background-color:#0C1431;
+}
+
+#box-2 {
+    background-color: rgb(12, 20, 49,0.8);
+    padding: 50px 0;
+}
+
+#job-greeting {
+    border: #0C1431 solid;
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    color: #0C1431;
+}
+
+#job-greeting h3 {
+    margin: unset;
+    font-weight: 800;
+}
+
+.content-box-job {
+    background-color: #0C1431;
+    height: 360px;
+}
+
+
+#box-3 {
+    background-color: #0C1431;
+    padding: 50px 0;
+}
+
+#job-greeting {
+    border: #0C1431 solid;
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    color: #0C1431;
+}
+
+
+#work-greeting h3 {
+    margin: unset;
+    font-weight: 800;
+}
+
+
+#footer {
+    background-color: #02040E;
+    height: auto;
+}
